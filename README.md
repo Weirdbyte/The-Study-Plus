@@ -1,5 +1,4 @@
 # The-Study-Plus
-<img src="https://user-images.githubusercontent.com/96302661/170649118-725b4d58-9558-4204-a5dc-0174d7ffdea5.png" height = "400px" width = "400px">
 
 # Introduction
 ## Idea / Problem
@@ -28,4 +27,3 @@ and anyone can register as a teacher ,who have knowledge about any topic and sub
 
 
 
-<img src="https://user-images.githubusercontent.com/96302661/170649118-725b4d58-9558-4204-a5dc-0174d7ffdea5.png" height = "400px" width = "400px">
