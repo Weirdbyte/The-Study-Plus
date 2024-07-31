@@ -2,11 +2,9 @@
 
 # Introduction
 ## Idea / Problem
-We thought about how can we help the students and teachers in a pandemic situation and also have a place of study. 
-And the students also gets the lectures and study material fast and at reasonable price .
+In the post-pandemic world, while the accessibility of online education has increased, students and teachers still face challenges in finding the right fit for their educational needs. The market lacks a streamlined, user-friendly platform where students can easily find quality educators for specific topics or subjects, and where educators can reach students who need their expertise. Additionally, students often struggle to access study materials that are both affordable and relevant to their coursework.
 ## Proposed Solution
-we create a website ,where a student can find a teacher ,who teach any specific topic or subject. 
-and anyone can register as a teacher ,who have knowledge about any topic and subject. there will be some charge of this prosses for the students.
+We propose creating a comprehensive educational platform that connects students with educators specializing in various subjects and topics. This platform would allow students to browse profiles, reviews, and ratings to find the best match for their learning needs. Educators can register and offer courses, tutoring sessions, or lectures. The platform will feature a marketplace for study materials, ensuring they are accessible at reasonable prices. This solution aims to foster a community of learning, where students can access quality education and resources efficiently and affordably, even outside traditional classroom settings.
 
 # Table of Contents:
 * User Login/Register
